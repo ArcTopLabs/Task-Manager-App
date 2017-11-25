@@ -19,4 +19,4 @@ ArcTop Labs : MasterDataNode Data Solution
 <p>Copy and Replace the access_token (available in your login) in arctoplabs.js file access_token variable</p>
             
 
-![alt text](https://github.com//ArcTopLabs/TaskManagerApp/blob/master/screenshot/Task%20Manager%20App.png)
+![alt text](https://github.com/ArcTopLabs/TaskManagerApp/blob/master/screenshot/Task%20Manager%20App.png)
